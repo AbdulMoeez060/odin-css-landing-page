@@ -74,3 +74,29 @@ button{
     justify-self: center;
     margin-left: 150px;
 }
+.info-head{
+    font-size: 36px;
+    font-weight: 900;
+    text-align: center;
+    color: #1f2937;
+    margin: 40px;
+}
+.poster img{
+    width: 160px;
+    height: 200px;
+    margin-bottom: 10px;
+    /* border: #1f2937 6px solid;
+    border-radius: 10px; */
+}
+.info{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 225px 100px 225px;
+    gap: 142px;
+
+}
+.card{
+    flex: initial;
+    width: 160px;
+    text-align: center;
+}
