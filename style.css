@@ -123,3 +123,42 @@ button{
     padding-right: 100px;
     
 }
+.action{
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.segment{
+    width: 75vw;
+    height: 150px;
+    background-color: #3882f6;
+    border-radius: 15px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.act-head{
+    font-size: 30px;
+    font-weight: 900;
+    color: #f9faf8;
+    margin-bottom: 10px;
+}
+.act-txt{
+    font-size: 18px;
+    color: #f9faf8;
+
+}
+.segment button{
+    align-self: center;
+    border: #f9faf8 2px solid;
+}
+.foot{
+    height: 100px;
+    background-color: #1f2937;
+    color: #f9faf8;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
