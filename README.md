@@ -1,1 +1,2 @@
-# odin-css-landing-page
+# Landing Page
+A project made for CSS portion of the odin project.
